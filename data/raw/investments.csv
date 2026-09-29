@@ -1,0 +1,21 @@
+﻿investment_id,investment_name,ticker,category,risk_level
+1,Tesouro Selic,,Renda Fixa,Baixo
+2,Tesouro IPCA+,,Renda Fixa,Baixo
+3,CDB Alpha,,Renda Fixa,Baixo
+4,LCI Beta,,Renda Fixa,Baixo
+5,PETR4,PETR4,Ações,Alto
+6,VALE3,VALE3,Ações,Alto
+7,ITUB4,ITUB4,Ações,Alto
+8,WEGE3,WEGE3,Ações,Alto
+9,HGLG11,HGLG11,FIIs,Médio
+10,MXRF11,MXRF11,FIIs,Médio
+11,KNRI11,KNRI11,FIIs,Médio
+12,XPML11,XPML11,FIIs,Médio
+13,IVVB11,IVVB11,ETFs,Médio
+14,BOVA11,BOVA11,ETFs,Médio
+15,SMAL11,SMAL11,ETFs,Alto
+16,NASD11,NASD11,ETFs,Alto
+17,Fundo Alpha,,Fundos,Médio
+18,Fundo Macro,,Fundos,Médio
+19,Fundo Renda,,Fundos,Baixo
+20,Fundo Multimercado,,Fundos,Alto
