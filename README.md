@@ -2,6 +2,16 @@
 
 Projeto de análise de dados desenvolvido para simular o cenário de uma empresa de investimentos e analisar o desempenho, a composição e a evolução das carteiras de seus clientes.
 
+## Dashboard
+
+### Visão Geral
+
+![Dashboard Visão Geral](docs/dashboard-geral.png)
+
+### Investimentos e Aportes
+
+![Dashboard Investimentos e Aportes](docs/dashboard-investimentos.png)
+
 ## Objetivo
 
 Analisar os dados de investidores, aportes, transações e carteiras para gerar indicadores e informações que auxiliem na compreensão do comportamento dos investimentos e da evolução do patrimônio administrado.
@@ -93,5 +103,7 @@ atlas-capital/
 ├── powerbi/
 │
 ├── docs/
+│   ├── dashboard-geral.png
+│   └── dashboard-investimentos.png
 │
 └── README.md
